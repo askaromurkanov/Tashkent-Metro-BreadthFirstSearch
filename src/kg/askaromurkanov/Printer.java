@@ -1,10 +1,5 @@
 package kg.askaromurkanov;
 
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-
 public class Printer {
 
     public static void printAusgabeMark() {

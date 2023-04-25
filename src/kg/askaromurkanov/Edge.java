@@ -14,7 +14,4 @@ public class Edge {
         return edges;
     }
 
-    public void setAdjacency(List<Integer> adjacency) {
-        this.edges = edges;
-    }
 }
